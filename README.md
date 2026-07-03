@@ -1,2 +1,1 @@
 "# MedIntel-AI" 
-"# MedIntel-AI" 
